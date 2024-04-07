@@ -1,0 +1,40 @@
+{
+    "movies" : [
+        {
+            "id" : 1,
+            "name" : "Monsters VS Aliens",
+            "genre" : "Kids",
+            "length" : "1:36",
+            "rating" : "10/10"
+        },
+        {
+            "id" : 2,
+            "name" : "Moana",
+            "genre" : "Kids",
+            "length" : "1:47",
+            "rating" : "10/10"
+        },
+        {
+            "id" : 3,
+            "name" : "Toy Story",
+            "genre" : "Kids",
+            "length" : "1:39",
+            "rating" : "1/10"
+        },
+        {
+            "id" : 4,
+            "name" : "Red Notice",
+            "genre" : "The Rock",
+            "length" : "1:45",
+            "rating" : "9/10"
+        },
+        {
+            "id" : 5,
+            "name" : "Fortnite the Uprising",
+            "genre" : "Kids",
+            "length" : "4:82",
+            "rating" : "100/10"
+        }
+
+    ]
+}
